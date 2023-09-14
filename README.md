@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @AdamixGamer
-- I’m interested in minecraft mods
-- I'd like report bugs
-- AdamixGamer#9118
+
